@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.test.java.problems.volume001.The_3n_plus_1_problem.test_the_3n_plus_1_problem",
+    "children" : [ {
+      "name" : "test_the_3n_plus_1_problem[1-10-20]",
+      "uid" : "afaacaffb1127513",
+      "parentUid" : "4f428fe4ba668d5cd1367f9cd5329f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618612542781,
+        "stop" : 1618612542782,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "20", "1", "10" ]
+    }, {
+      "name" : "test_the_3n_plus_1_problem[100-200-125]",
+      "uid" : "c89ed317f4aed1d",
+      "parentUid" : "4f428fe4ba668d5cd1367f9cd5329f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618612542787,
+        "stop" : 1618612542789,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "125", "100", "200" ]
+    }, {
+      "name" : "test_the_3n_plus_1_problem[201-210-89]",
+      "uid" : "9527deca84e1b619",
+      "parentUid" : "4f428fe4ba668d5cd1367f9cd5329f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618612542791,
+        "stop" : 1618612542791,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "89", "201", "210" ]
+    } ],
+    "uid" : "src.test.java.problems.volume001.The_3n_plus_1_problem.test_the_3n_plus_1_problem"
+  } ],
+  "name" : "packages"
+}
