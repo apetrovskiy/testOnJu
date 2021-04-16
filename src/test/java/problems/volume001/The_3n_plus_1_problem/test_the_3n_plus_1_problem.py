@@ -1,4 +1,6 @@
-from src.main.java.problems.volume001.The_3n_plus_1_problem.the_3n_plus_1_problem import the_3n_plus_1_problem
+from src.main.java.problems.volume001.\
+    The_3n_plus_1_problem.the_3n_plus_1_problem \
+    import the_3n_plus_1_problem
 import pytest
 
 
