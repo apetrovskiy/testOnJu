@@ -1,0 +1,78 @@
+{
+  "uid" : "f82f6e8bbfa9c72c",
+  "name" : "test_the_3n_plus_1_problem[201-210-89]",
+  "fullName" : "src.test.java.problems.volume001.The_3n_plus_1_problem.test_the_3n_plus_1_problem#test_the_3n_plus_1_problem",
+  "historyId" : "3e56bcf54ea4c92d9463314c8d065b41",
+  "time" : {
+    "start" : 1618558543329,
+    "stop" : 1618558543330,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c65c33c695c9b5c",
+      "name" : "stdout",
+      "source" : "7c65c33c695c9b5c.txt",
+      "type" : "text/plain",
+      "size" : 2426
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.problems.volume001.The_3n_plus_1_problem"
+  }, {
+    "name" : "suite",
+    "value" : "test_the_3n_plus_1_problem"
+  }, {
+    "name" : "host",
+    "value" : "fv-az199-41"
+  }, {
+    "name" : "thread",
+    "value" : "3067-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.problems.volume001.The_3n_plus_1_problem.test_the_3n_plus_1_problem"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "89"
+  }, {
+    "name" : "i",
+    "value" : "201"
+  }, {
+    "name" : "j",
+    "value" : "210"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f82f6e8bbfa9c72c.json",
+  "parameterValues" : [ "89", "201", "210" ]
+}
