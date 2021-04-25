@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "src.test.java.problems.volume001.The_3n_plus_1_problem",
+    "children" : [ {
+      "name" : "test_the_3n_plus_1_problem",
+      "children" : [ {
+        "name" : "test_the_3n_plus_1_problem[1-10-20]",
+        "uid" : "675d1ff036a2a900",
+        "parentUid" : "5a86e81da4fed5c91a8dac5c7e62a65f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619384023648,
+          "stop" : 1619384023649,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "20", "1", "10" ]
+      }, {
+        "name" : "test_the_3n_plus_1_problem[100-200-125]",
+        "uid" : "bdb9637921216f9c",
+        "parentUid" : "5a86e81da4fed5c91a8dac5c7e62a65f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619384023651,
+          "stop" : 1619384023654,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "125", "100", "200" ]
+      }, {
+        "name" : "test_the_3n_plus_1_problem[201-210-89]",
+        "uid" : "2c411b0e534f9a27",
+        "parentUid" : "5a86e81da4fed5c91a8dac5c7e62a65f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619384023657,
+          "stop" : 1619384023657,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "89", "201", "210" ]
+      } ],
+      "uid" : "5a86e81da4fed5c91a8dac5c7e62a65f"
+    } ],
+    "uid" : "4652b729c83566145846171dc78eab10"
+  } ],
+  "name" : "suites"
+}
