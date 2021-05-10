@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "test_the_3n_plus_1_problem[1-10-20]",
+    "uid" : "8f0ac7c66256acfa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620662226196,
+      "stop" : 1620662226197,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "20", "1", "10" ]
+  }, {
+    "name" : "test_the_3n_plus_1_problem[100-200-125]",
+    "uid" : "21e1d911f7c543e8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620662226199,
+      "stop" : 1620662226203,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "125", "100", "200" ]
+  }, {
+    "name" : "test_the_3n_plus_1_problem[201-210-89]",
+    "uid" : "2b2fbea5d3a78a88",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620662226205,
+      "stop" : 1620662226206,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "89", "201", "210" ]
+  } ],
+  "name" : "behaviors"
+}
